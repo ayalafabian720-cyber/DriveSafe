@@ -1,0 +1,22 @@
+[
+    {
+        "documento": 43655,
+        "nombre": "ferner",
+        "especialidad": "carro"
+    },
+    {
+        "documento": 5454,
+        "nombre": "mateo",
+        "especialidad": "carro"
+    },
+    {
+        "documento": 234334,
+        "nombre": "matias",
+        "especialidad": "moto"
+    },
+    {
+        "documento": 444444,
+        "nombre": "torres",
+        "especialidad": "carro"
+    }
+]

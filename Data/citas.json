@@ -1,0 +1,14 @@
+[
+    {"id":1 , 
+     "id_usuario": 1234 ,
+     "nombre_usuario": "Juanito",
+     "id_instructor": 1345 , 
+     "nombre_instructor": "David Dominguez",
+     "placa":"VH123", 
+     "tipo":"carro",
+     "fecha": "01/10/2026", 
+     "hora": "2:00 pm", 
+     "duracion": 3 ,
+     "asistencia": "SI" , 
+     "observaciones": "fino señores"}
+]

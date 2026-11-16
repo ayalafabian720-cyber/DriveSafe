@@ -1,0 +1,17 @@
+[
+    {
+        "placa": "vcf234",
+        "modelo": "bmw",
+        "vehiculo": "carro"
+    },
+    {
+        "placa": "CTY45",
+        "modelo": "pikanto",
+        "vehiculo": "carro"
+    },
+    {
+        "placa": "345HF",
+        "modelo": "chevrolet",
+        "vehiculo": "carro"
+    }
+]

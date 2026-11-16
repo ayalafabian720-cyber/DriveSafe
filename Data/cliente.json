@@ -1,0 +1,27 @@
+[
+    {
+        "documento": 1119180765,
+        "nombre": "Marcos",
+        "vehiculo": "moto"
+    },
+    {
+        "documento": 323121,
+        "nombre": "Neiber",
+        "vehiculo": "carro"
+    },
+    {
+        "documento": 120956,
+        "nombre": "pepito",
+        "vehiculo": "carro"
+    },
+    {
+        "documento": 987654321,
+        "nombre": "ayala",
+        "vehiculo": "moto"
+    },
+    {
+        "documento": 22222,
+        "nombre": "laurel",
+        "vehiculo": "moto"
+    }
+]
